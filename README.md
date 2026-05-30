@@ -100,8 +100,8 @@ Music streaming interface built using modern web technologies.
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: https://saranyas-dev.netlify.app
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/saranya-sivakumar-a534202a1/
+- 📧 Email: be.saranyadev.27@gmail.com
 
 ---
 
