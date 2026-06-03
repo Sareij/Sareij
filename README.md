@@ -66,23 +66,23 @@ https://saranyas-dev.netlify.app
 
 ## 🌟 Featured Projects
 
-##🤖 AI Code Review Agent
+## 🤖 AI Code Review Agent
 
 An AI-powered application that analyzes source code, identifies potential issues, and provides intelligent suggestions to improve code quality, readability, and performance.
 
-##🛡️ SAFEGUARD – Emotion-Aware AI Harassment Detection System
+## 🛡️ SAFEGUARD – Emotion-Aware AI Harassment Detection System
 
 An advanced AI solution designed to detect harassment, harmful content, and emotional context in conversations, helping create safer and more inclusive digital environments.
 
-##📄 Resume Screening Bot
+## 📄 Resume Screening Bot
 
 An intelligent recruitment assistant that automates resume analysis, candidate evaluation, and requirement matching to streamline hiring processes.
 
-##🌱 VIDHAI – SIH 2025 Project
+## 🌱 VIDHAI – SIH 2025 Project
 
 An innovative solution developed for Smart India Hackathon, focused on leveraging technology to solve real-world challenges through impactful digital innovation.
 
-##🎵 Unique Music Application
+## 🎵 Unique Music Application
 
 A creative music platform designed with an engaging user interface and interactive features to enhance the music discovery and listening experience.
 
