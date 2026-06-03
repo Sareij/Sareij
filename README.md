@@ -62,12 +62,6 @@ Automated recruitment assistant that analyzes resumes and matches candidates bas
 ### 🛡️ Emotion-Aware AI Harassment Detection System
 AI model designed to identify harmful content and detect emotional context in conversations.
 
-### 🎬 Netflix Clone
-Full Stack streaming platform inspired by Netflix with authentication and modern UI.
-
-### 🎵 Spotify Clone
-Music streaming interface built using modern web technologies.
-
 ---
 
 ## 📈 GitHub Stats
