@@ -64,21 +64,6 @@ AI model designed to identify harmful content and detect emotional context in co
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sareij&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sareij&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sareij&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🎓 Areas of Interest
 
